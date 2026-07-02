@@ -1,0 +1,7 @@
+meta:
+  environment: python
+  toolchain:
+    name: pip
+run:
+  command: python app.py
+  containerPort: 8080
